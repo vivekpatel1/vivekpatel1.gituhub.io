@@ -1,0 +1,58 @@
+ html{
+background: url(../Images/background-page1.jpg)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.prof-box{
+    
+    width: 300px;
+    height: 350px; 
+    padding: 40px;
+    background: rgba(0,0,0,0.4);
+    color: white;
+    margin:0 auto;
+    margin-top: 90px;
+    text-align: center;
+}
+.prof-pic{
+  border-radius: 50%;
+      width: 150px; 
+    height: 150px;
+
+}
+
+h1{
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+    
+} 
+p{
+    font-weight: 200;
+    letter-spacing: 1;
+    
+}
+.line-break{
+    width: 300px;
+    border-top: 1px solid white; 
+    
+}
+
+.low-nav{
+font-size: 25px;
+    letter-spacing: 4;
+    margin-top: 10px;
+    color: white;
+    
+        
+}
+
+i:hover{
+    color: darkorange;
+}
+
